@@ -10,10 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 import os
-<<<<<<< HEAD
 
-=======
->>>>>>> fa81e97e61b051288601f17c18386b89eae5deca
 import django_heroku
 from pathlib import Path
 
